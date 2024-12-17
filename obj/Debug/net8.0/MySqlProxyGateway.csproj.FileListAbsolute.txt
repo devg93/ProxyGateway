@@ -1,0 +1,14 @@
+/home/neo/Desktop/MySqlProxyGateway/bin/Debug/net8.0/MySqlProxyGateway
+/home/neo/Desktop/MySqlProxyGateway/bin/Debug/net8.0/MySqlProxyGateway.deps.json
+/home/neo/Desktop/MySqlProxyGateway/bin/Debug/net8.0/MySqlProxyGateway.runtimeconfig.json
+/home/neo/Desktop/MySqlProxyGateway/bin/Debug/net8.0/MySqlProxyGateway.dll
+/home/neo/Desktop/MySqlProxyGateway/bin/Debug/net8.0/MySqlProxyGateway.pdb
+/home/neo/Desktop/MySqlProxyGateway/obj/Debug/net8.0/MySqlProxyGateway.GeneratedMSBuildEditorConfig.editorconfig
+/home/neo/Desktop/MySqlProxyGateway/obj/Debug/net8.0/MySqlProxyGateway.AssemblyInfoInputs.cache
+/home/neo/Desktop/MySqlProxyGateway/obj/Debug/net8.0/MySqlProxyGateway.AssemblyInfo.cs
+/home/neo/Desktop/MySqlProxyGateway/obj/Debug/net8.0/MySqlProxyGateway.csproj.CoreCompileInputs.cache
+/home/neo/Desktop/MySqlProxyGateway/obj/Debug/net8.0/MySqlProxyGateway.dll
+/home/neo/Desktop/MySqlProxyGateway/obj/Debug/net8.0/refint/MySqlProxyGateway.dll
+/home/neo/Desktop/MySqlProxyGateway/obj/Debug/net8.0/MySqlProxyGateway.pdb
+/home/neo/Desktop/MySqlProxyGateway/obj/Debug/net8.0/MySqlProxyGateway.genruntimeconfig.cache
+/home/neo/Desktop/MySqlProxyGateway/obj/Debug/net8.0/ref/MySqlProxyGateway.dll
