@@ -9,3 +9,11 @@ Proxy Server: Listens on a specific port (configured as proxyPort), accepts clie
 MySQL Server: Receives forwarded requests from the proxy, executes them, and returns the results back to the proxy.
 
 ![image](https://github.com/user-attachments/assets/a15ce385-7f6e-4812-9092-c160a1aa3458)
+
+The client (Docker) sends queries to the proxy.
+
+The proxy forwards those queries to the MySQL server.
+
+The MySQL server processes the queries and sends results back to the proxy.
+
+Finally, the proxy sends the results back to the client.
